@@ -1,4 +1,5 @@
 #oiracis
+#its just a concept that can probably be improved. Just worked on it like 15 mins
 import requests
 input()
 def genToken(): #generate new token
